@@ -2,7 +2,6 @@
 
 Group learning becomes personal learning and each person can achieve more learning.
 
----
 
 ## Why we do it
 
